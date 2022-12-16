@@ -1,0 +1,105 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(255, 255, 255);
+}
+
+/* header*/
+header{
+    font-family: 'Bebas Neue', cursive;
+    width: 100%;
+    background-color: rgb(150, 64, 231);
+}
+
+.nav1{
+    font-size: 15px; 
+}
+
+.nav1:hover{
+    text-decoration: none;
+    
+}
+
+.botonera{
+    color: white;
+}
+
+.botonera:hover{
+    text-decoration: none;
+    color: yellow;
+}
+/* fin header*/
+
+/*---------------------------------*/
+
+/*contenido 1*/
+
+.text-amarillo{
+    background-color: yellow;
+    padding: 0 20px;
+}
+/*fin contenido 1*/
+
+/*---------------------------------*/
+
+/* nuestras propuestas*/
+.propu{
+    font-family: 'Bebas Neue', cursive;
+}
+
+.nuestr{
+    font-size: 20px;
+}
+/* fin nuestras propuestas*/
+
+/*---------------------------------*/
+
+/*personal de empresa*/
+
+.team{
+    font-family: 'Bebas Neue', cursive;
+}
+
+.letra-team{
+font-size: 20px;
+}
+
+.fondo-personal{
+    background-color: rgb(223, 203, 241); 
+}
+
+/*fin personal de empresa*/
+
+/*---------------------------------*/
+
+/*novedades*/
+.nove{
+    font-family: 'Bebas Neue', cursive;
+}
+
+.letra-nove{
+font-size: 20px;
+}
+
+/*fin novedades*/
+
+/*---------------------------------*/
+
+.color-caja{
+    border: 3px rgb(183, 142, 219) solid !important;
+}
+
+.lineas-caja{
+    border-bottom: 3px rgb(216, 195, 235) solid !important;
+} 
+
+hr{
+    border: 1px rgb(183, 142, 219) solid;
+    width: 100%;
+}
+
+footer{
+    height: 80px;
+    background-color: rgb(255, 255, 255);
+}
+
